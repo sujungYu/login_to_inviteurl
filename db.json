@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "유수정",
+      "password": "1234",
+      "id": 1
+    }
+  ],
+  "room": [
+    {
+      "roomname": "안녕",
+      "manager": "유수정",
+      "id": 1
+    },
+    {
+      "roomname": "다",
+      "id": 2
+    },
+    {
+      "roomname": "라",
+      "id": 3
+    },
+    {
+      "roomname": "마",
+      "manager": "유수정",
+      "id": 4
+    },
+    {
+      "roomname": "나",
+      "manager": "유수정",
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
